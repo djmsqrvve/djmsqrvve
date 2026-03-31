@@ -1,54 +1,46 @@
-# DJ MSQRVVE // THE WORLD'S GREATEST STREAMER™
+# DJ MSQRVVE
 
-> **Welcome to the Masquerave.** 
-> Bringing **Twilight Shadowpunk** energy — cyberpunk rebuilt with nature and community — across variety gaming, tech R&D, and high-stakes NFL casting.
-
----
-
-### 🧠 NEURAL LINKED (ACTIVE SYSTEMS)
-
-- **[StreamTools](https://github.com/djmsqrvve/StreamTools)**: The ultimate local-first streaming toolkit. Professional overlays, automated VOD processing, and intelligent clip generation.
-- **Layer Assistant**: Dominating the WoW layer landscape since TBC. Precision analysis for the modern adventurer.
-- **Roblox Evolution**: Forging the next generation of plugins and AI-integrated gaming experiences.
-- **Helix2000**: Deep R&D into game systems and immersive lore.
+Solo developer building a multi-client MMORPG ecosystem from scratch. One shared data pipeline feeding four interconnected game implementations — browser, 3D, retro engine, and beyond.
 
 ---
 
-### ⚡ CURRENT OPERATING MODES
+### What I'm Building
 
-| SYSTEM MODE | TARGET OBJECTIVE | STATUS |
-| :--- | :--- | :--- |
-| **FOCUS MODE** | Precision Technical Grinding / Coding / AI R&D | `ACTIVE` |
-| **CHAOS MODE** | Variety Gaming / Live Reactions / High-Energy Hype | `READY` |
-| **RAID ENERGY** | Community Expansion / Support Flow | `STANDBY` |
+**The Helix Ecosystem** — a fantasy MMORPG world rendered across multiple clients, all consuming from a single curated data pipeline.
 
----
+| Project | Stack | What It Does |
+|---------|-------|-------------|
+| **Helix 2000** | TypeScript, React, Phaser, Colyseus | 2D browser MMORPG with real-time multiplayer, 500 abilities, boss encounters |
+| **[Helix 3D](https://github.com/djmsqrvve/helix_3d_render_prototype)** | Rust, Bevy 0.18 | 3D client that loads WoW-format M2 models, terrain, and animations from MPQ archives |
+| **[DJ-Engine](https://github.com/djmsqrvve/DJ-Engine)** | Rust, Bevy 0.18 | Custom 2D game engine with CRT shaders, particle systems, and a retro JRPG (DoomExe) |
+| **Helix DB** | TypeScript, TOML | Data pipeline — 2,000+ curated entities flowing to all game clients |
 
-### 🎨 VISUAL PHILOSOPHY: TWILIGHT SHADOWPUNK
-
-*Blade Runner meets nature. Sleepywood mystique.*
-
-- **Architecture**: Cyberpunk Wright // Inverted Googie Organic Forms.
-- **Themes**: [Neon-Deco], [Googie-Atomic], [Usonian-Luxe], [Masquerave-Noir].
-- **Motifs**: Corner Chevrons, Orbit Glows, Bioluminescent Tech.
+The aesthetic is dark and atmospheric — bioluminescent accents against deep shadows. Think midnight forests with glowing flora and ancient tech half-buried in the undergrowth.
 
 ---
 
-### 🛠️ TECH STACK // FORGED IN CODE
+### Current Focus
 
-`PYTHON` • `LUA` • `POWERSHELL` • `RUST (BEVY)` • `HTML/CSS/JS` • `AI/LLM INTEGRATION`
+Building a 2:30 demo reel showcasing the entire ecosystem. 13 AI agents running in parallel across the codebase — each owning a different subsystem, coordinated by a master orchestrator.
 
----
-
-### 🌐 CONNECT WITH THE MASQUERAVE
-
-- **LIVE**: [Twitch](https://twitch.tv/djmsqrvve) (Hypothetical link)
-- **COMMUNITY**: [Discord Watch Party](https://discord.gg/msqrvve) (Hypothetical link)
-- **VODS/HIGHLIGHTS**: [YouTube](https://youtube.com/@djmsqrvve)
-- **INTEL**: [Twitter/X](https://twitter.com/djmsqrvve)
+**By the numbers:**
+- 13,000+ automated tests across the ecosystem
+- 2,000+ hand-curated game entities
+- 63 WoW creature models parsed from vanilla MPQ files
+- 22 VS Code themes across all workspaces
+- Complete YouTube content pipeline (upload, clip, schedule, batch)
 
 ---
 
-> *"Polished vibes without cringe. Confident, playful, evolved."*
+### Tech
 
-![DJ MSQRVVE Neural Pulse](https://raw.githubusercontent.com/djmsqrvve/djmsqrvve/main/pulse.gif) *(Draft placeholder for a cool GIF)*
+`Rust` `Bevy` `TypeScript` `React` `Python` `Colyseus` `Next.js` `FastAPI` `Phaser` `TOML`
+
+---
+
+### Links
+
+- [twitch.tv/djmsqrvve](https://twitch.tv/djmsqrvve)
+- [djmsqrvve.com](https://djmsqrvve.com)
+- [youtube.com/@djmsqrvve](https://youtube.com/@djmsqrvve)
+- [discord.gg/msqrvve](https://discord.gg/msqrvve)
